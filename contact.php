@@ -7,17 +7,24 @@
         <?php include 'common/nav.php'; ?>
         <div class="container animated fadeIn">
             <div class="row">
-                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtbrPKgQeqq0loDiMCu2-O4TeEx2pijweiq3IVryo9NcR43g/viewform?embedded=true" width="300" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="page-header">
+                        <h1 class="contactPageTitle">Contact<br><small>To contact me, please reach me on LinkedIn or send me an email and I will reply to your inquiry as soon as I can.</small></h1>
+                    </div>
                 </div>
-                <div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtbrPKgQeqq0loDiMCu2-O4TeEx2pijweiq3IVryo9NcR43g/viewform?embedded=true" width="730" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            </div>
+            <div class="row centerAlignText">
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    <a href="https://github.com/srojtas" class="contactIcon"><i class="fa fa-github" aria-hidden="true"></i>
+                    <p class="contactBody">View my GitHub Profile</p></a>
                 </div>
-                <div class="hidden-xs hidden-sm col-md-12 hidden-lg">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtbrPKgQeqq0loDiMCu2-O4TeEx2pijweiq3IVryo9NcR43g/viewform?embedded=true" width="950" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    <a href="https://www.linkedin.com/in/sascharojtas" class="contactIcon"><i class="fa fa-linkedin" aria-hidden="true"></i>
+                    <p class="contactBody">View my LinkedIn Profile</p></a>
                 </div>
-                <div class="hidden-xs hidden-sm hidden-md col-lg-12">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtbrPKgQeqq0loDiMCu2-O4TeEx2pijweiq3IVryo9NcR43g/viewform?embedded=true" width="1150" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    <a href="mailto:sascha.rojtas@pitt.edu" class="contactIcon"><i class="fa fa-envelope-o" aria-hidden="true"></i>
+                    <p class="contactBody">Send me an email</p></a>
                 </div>
             </div>
         </div>

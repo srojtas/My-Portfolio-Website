@@ -21,6 +21,7 @@
                         <li role="presentation"><a href="webApp.php">Web Application Using JQuery, JQuery Mobile, and JSON</a></li>
                         <li role="presentation"><a href="memGame.php">Responsive Memory Game with Bootstrap</a></li>
                         <li role="presentation"><a href="userCenteredDesign.php">Mockup for User-Centered Design</a></li>
+                        <li role="presentation"><a href="portfolio.php">Portfolio Website</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">

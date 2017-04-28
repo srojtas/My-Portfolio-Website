@@ -28,6 +28,7 @@
                         <li><a href="webApp.php">Web Application Using JQuery,<br>JQuery Mobile, and JSON</a></li>
                         <li><a href="memGame.php">Responsive Memory Game<br>with Bootstrap</a></li>
                         <li><a href="userCenteredDesign.php">Mockup for User-Centered Design</a></li>
+                        <li><a href="portfolio.php">Portfolio Website</a></li>
                     </ul>
                 </div>
             </div>

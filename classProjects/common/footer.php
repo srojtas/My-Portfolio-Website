@@ -1,6 +1,6 @@
 <footer class="navbar-fixed-bottom">
     <!-- Footer used on every page. -->
-    <div class="container footer">
+    <div class="container-fluid footer">
         <div class="row">
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 footerIcon">
                 <a href="https://github.com/srojtas"><i class="fa fa-github" aria-hidden="true"></i></a>

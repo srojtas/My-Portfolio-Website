@@ -1,11 +1,11 @@
 body {
     padding-top: 60px;
     padding-bottom: 40px;
-    background-color: #88BBD6;
+    background-color: #F07022;
 }
 
 .container {
-    background-color: #E9E9E9;
+    background-color: #FFFFFF;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .footerIcon {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 h1 {
@@ -30,18 +30,24 @@ small, p, ul, li, a, h2, h3, h4, h5, h6, form {
     font-family: 'Lato', sans-serif;
 }
 
-.navbar, .nav.navbar-nav.navbar-right li a, .navbar-toggle, .navbar-default .navbar-brand, footer, .footerIcon a {
+.navbar, .nav.navbar-nav.navbar-right li a, .navbar-toggle, .navbar-default .navbar-brand {
     font-family: 'Lato', sans-serif;
-    background-color: #99D3DF;
-    color: #FFFFFF;
+    background-color: #97DEF9;
+    color: #000000;
+    border: none;
+}
+
+footer, .footerIcon a {
+    font-family: 'Lato', sans-serif;
+    color: #000000;
     border: none;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #FFFFFF;
+    background-color: #000000;
 }
 
-.jumbotron, small {
+small {
     color: #000000;
 }
 
@@ -51,8 +57,8 @@ small, p, ul, li, a, h2, h3, h4, h5, h6, form {
     text-align: center;
 }
 
-.container.footer {
-    background-color: #99D3DF;
+.container-fluid.footer {
+    background-color: #E0FCFF;
 }
 
 .classProjectMobileNav, .resumeSubtitle {
@@ -76,4 +82,20 @@ small, p, ul, li, a, h2, h3, h4, h5, h6, form {
 
 .img-responsive {
     margin: 0 auto;
+}
+
+.contactIcon, .contactIcon a:link, .contactIcon a:visited {
+    font-size: 60px;
+    text-align: center;
+    color: #000000;
+}
+
+.contactBody {
+    font-size: 25px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.centerAlignText {
+    text-align: center;
 }
