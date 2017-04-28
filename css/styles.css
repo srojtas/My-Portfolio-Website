@@ -1,0 +1,79 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #88BBD6;
+}
+
+.container {
+    background-color: #E9E9E9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.page-header, .footerIcon, .welcomeTitle {
+    text-align: center;
+}
+
+.navbar-fixed-bottom {
+    height: 40px;
+}
+
+.footerIcon {
+    font-size: 20px;
+}
+
+h1 {
+   font-family: 'Fanwood Text', serif; 
+}
+
+small, p, ul, li, a, h2, h3, h4, h5, h6, form {
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar, .nav.navbar-nav.navbar-right li a, .navbar-toggle, .navbar-default .navbar-brand, footer, .footerIcon a {
+    font-family: 'Lato', sans-serif;
+    background-color: #99D3DF;
+    color: #FFFFFF;
+    border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FFFFFF;
+}
+
+.jumbotron, small {
+    color: #000000;
+}
+
+.welcomeBody {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container.footer {
+    background-color: #99D3DF;
+}
+
+.classProjectMobileNav, .resumeSubtitle {
+    text-align: center;
+}
+
+.whiteText{
+    color: #FFFFFF;
+}
+
+.nav-pills>li.active>a, 
+.nav-pills>li.active>a:focus, 
+.nav-pills>li.active>a:hover {
+    color: #FFFFFF;
+    background-color: #50B8D9;
+}
+
+.item {
+    height: 25%;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
