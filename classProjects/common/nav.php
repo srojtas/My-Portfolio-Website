@@ -6,7 +6,6 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="../index.php"></a>
             <a class="navbar-brand" href="../index.php">Sascha M. Rojtas</a>
         </div>
             <div class="collapse navbar-collapse" id="navBar">
