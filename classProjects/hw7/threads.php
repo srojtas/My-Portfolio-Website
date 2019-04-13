@@ -1,0 +1,53 @@
+<?php
+    session_start();
+    if($_GET) {
+    } else {
+        header( "Location: http://sascha.rojtas.com/classProjects/hw7/categories.php"); // Checks for category ID, otherwise it redirects to categories.
+    }
+?>
+
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <title>Forum -- Threads</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>
+            View Threads <?php if($_SESSION) echo " -- Logged in as ".$_SESSION["username"]; // Shows user that is logged in if any?>
+            </h1>
+        </header>
+        <div class="mainContent">
+            <table>
+                <th>Thread</th>
+                <th>Description</th>
+                <th>Date</th>
+                <th>User</th>
+                <?php
+                    if($_GET) {
+                        include "dbconn.php";
+                        $catID = $_GET["id"];
+                        $catID = mysqli_real_escape_string($dbconnect,$catID); // Sanitize
+                        $threadQuery = "SELECT hw7Threads.threadID, hw7Threads.threadTitle, hw7Threads.desc, hw7Threads.date, hw7Users.username, hw7Threads.CatID_FK FROM hw7Threads INNER JOIN hw7Users ON hw7Threads.UserID_FK=hw7Users.userID WHERE catID_FK = {$catID}";
+                        $result = mysqli_query($dbconnect,$threadQuery); // SQL Statement to insert the SQL data into a HTML table
+                            while($row = mysqli_fetch_assoc($result)) {
+                                echo "<tr>";
+                                    echo "<td><a href='viewThread.php?id=".$row["threadID"]."'>".$row["threadTitle"]."</a></td>";
+                                    echo "<td>".$row["desc"]."</td>";
+                                    echo "<td>".$row["date"]."</td>";
+                                    echo "<td>".$row["username"]."</td>";
+                                echo "</tr>";
+                            }
+                    }
+                ?>
+            </table>
+            <p><a href="newThread.php?catID=<?php echo $_GET["id"];?>">Start a New Thread</a></p> <!-- New Thread -->
+            <p><a href="categories.php">Back to Categories</a></p>
+            <p><?php if($_SESSION) echo "<p><a href='logout.php'>Log out</a></p>"; else echo "<p><a href='login.php'>Log in</a></p>";?>  <!-- Checks for login. If so, offers option to log out. If not, offers option to log in. --></p>
+        </div>
+    </body>
+
+    </html>

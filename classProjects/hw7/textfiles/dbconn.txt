@@ -1,0 +1,8 @@
+<?php
+    $host = "localhost"; // SQL Host a la SIS Server
+    $dbuser = "smr109"; // Database user.
+    $dbpassword = ""; // Database password.
+    $dbname = "smr109"; // Name of the database itself
+    
+    $dbconnect = mysqli_connect($host,$dbuser,$dbpassword,$dbname);
+?>

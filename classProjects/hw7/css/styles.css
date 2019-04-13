@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+    padding: 10px;
+    background-color: #FFFFFF;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.loginForm {
+    font-size: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+}

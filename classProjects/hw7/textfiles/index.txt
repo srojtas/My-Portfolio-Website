@@ -1,0 +1,4 @@
+<?php
+    session_start();
+    header( "Location: http://sis-teach-01.sis.pitt.edu/fall2016/smr109/homework7/categories.php"); // Redirect to categories
+?>

@@ -1,6 +1,6 @@
 body {
     padding-top: 60px;
-    padding-bottom: 40px;
+    padding-bottom: env(safe-area-inset-bottom);
     background-color: #F07022;
 }
 
@@ -61,7 +61,7 @@ small {
     background-color: #E0FCFF;
 }
 
-.classProjectMobileNav, .resumeSubtitle {
+.classProjectMobileNav, .resumeSubtitle, .blogSubtitle {
     text-align: center;
 }
 

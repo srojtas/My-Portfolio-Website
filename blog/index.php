@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php include 'common/head.php'; ?>
-        <title>Sascha M. Rojtas - Resume</title>
+    <?php include '../common/head.php'; ?>
+        <title>Sascha M. Rojtas - Blog</title>
     </head>
     <body>
-        <?php include 'common/nav.php'; ?>
+        <?php include '../common/nav.php'; ?>
         <div class="container animated fadeIn">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -16,7 +16,7 @@
             </div>
             <div class="row">
                 <div class="hidden-xs col-sm-3 col-md-3 col-lg-3">
-                    <h2 class="resumeSubtitle">Skills</h2>
+                    <h2 class="blogSubtitle">Archive</h2>
                     <p class="resumeBody">These are some of the skills that I have learned at the University of Pittsburgh and on my own.</p>
                     <ul class="list-group">
                         <li class="list-group-item">AJAX</li>

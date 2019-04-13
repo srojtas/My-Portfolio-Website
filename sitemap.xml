@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>/about.php</loc>
+		<lastmod>2017-04-28T12:24:59-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/basicPHPSQLForum.php</loc>
+		<lastmod>2017-04-28T15:03:06-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/common/footer.php</loc>
+		<lastmod>2017-05-16T09:13:33-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/common/head.php</loc>
+		<lastmod>2017-04-28T12:24:21-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/common/nav.php</loc>
+		<lastmod>2017-04-28T15:23:18-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/index.php</loc>
+		<lastmod>2017-04-28T15:03:06-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/memGame.php</loc>
+		<lastmod>2017-04-28T15:03:06-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/portfolio.php</loc>
+		<lastmod>2017-04-28T15:11:24-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/userCenteredDesign.php</loc>
+		<lastmod>2017-04-28T15:03:06-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/classProjects/webApp.php</loc>
+		<lastmod>2017-04-28T15:03:06-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/common/footer.php</loc>
+		<lastmod>2017-05-16T09:13:43-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/common/head.php</loc>
+		<lastmod>2017-04-28T12:24:12-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/common/nav.php</loc>
+		<lastmod>2017-04-28T15:23:25-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/contact.php</loc>
+		<lastmod>2017-05-16T09:14:59-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/files/RojtasResume.pdf</loc>
+		<lastmod>2017-05-16T09:24:42-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/fonts/fontawesome-webfont.eot</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/fonts/fontawesome-webfont.svg</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/fonts/fontawesome-webfont.ttf</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/fonts/fontawesome-webfont.woff</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/fonts/fontawesome-webfont.woff2</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/fonts/FontAwesome.otf</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/index.php</loc>
+		<lastmod>2017-04-28T12:24:49-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/animated.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/bordered-pulled.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/core.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/fixed-width.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/font-awesome.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/icons.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/larger.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/list.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/mixins.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/path.less</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/rotated-flipped.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/screen-reader.less</loc>
+		<lastmod>2016-12-22T12:50:34-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/stacked.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/less/variables.less</loc>
+		<lastmod>2016-12-22T12:50:32-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<loc>/resume.php</loc>
+		<lastmod>2017-05-16T09:25:43-07:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+</urlset>
+
